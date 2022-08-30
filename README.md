@@ -1,3 +1,3 @@
 ## replicação do Netflix
 
-Começo do projeto
+Projeto Finalizado
