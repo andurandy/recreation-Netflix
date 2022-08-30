@@ -16,7 +16,7 @@
 
 body{
     background: var(--preta);
-    font-family: 'times new roman', times, serif;
+    font-family: 'arial', times, serif;
     color: var(--branco);
 }
 
@@ -58,7 +58,7 @@ header nav a:hover{
 }
 
 .filme-principal .descricao{
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
@@ -67,6 +67,7 @@ header nav a:hover{
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
+
 
 .button{
     background-color: rgba(0,0,0,.50);
@@ -96,4 +97,19 @@ header nav a:hover{
 main .container{
     margin-left: 25px;
     width: 60%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.titulo-secund{
+    margin-left: 15px;
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
